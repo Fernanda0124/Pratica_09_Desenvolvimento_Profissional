@@ -23,6 +23,8 @@ meu-estudo-caso/
 - [Axios](https://axios-http.com/) - para consumo da API
 - [React Bootstrap](https://react-bootstrap.github.io/) - para estilização
 
+- Site postado no vercel: https://pratica-09-desenvolvimento-profissional-jpjm1uz2e.vercel.app/ 
+
 ### Mobile
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
@@ -53,7 +55,7 @@ A aplicação consome a API de produtos disponível em:
 - Gerenciador de pacotes (npm ou yarn)
 - Para o mobile: Expo CLI ou Expo Go app
 
-### Web
+### Web 
 
 1. Navegue até a pasta `web`:
    ```bash
